@@ -1,3 +1,1 @@
-# Inteligencia-artificial
-Repositorio criado para armazenar atividades de IA do curso Engenharia de software
-
+# Inteligencia-artificial atividade 1 leitura, abertura e calculos sobre tabela
