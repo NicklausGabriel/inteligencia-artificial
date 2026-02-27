@@ -1,2 +1,3 @@
-# inteligencia-artificial
-Atividades de IA Engenharia de software
+# Inteligencia-artificial
+Repositorio criado para armazenar atividades de IA do curso Engenharia de software
+
